@@ -1,0 +1,13 @@
+{
+  "name": "adobe-rpc",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "shidoitsuka <mail@standinshd.site>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@arcsine/win-info": "^0.1.2",
+    "discord-rich-presence": "0.0.8",
+    "find-process": "^1.4.3"
+  }
+}
